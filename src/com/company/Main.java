@@ -11,5 +11,8 @@ public class Main {
 
         Substitution_1_3 sub_1_3 = new Substitution_1_3();
         sub_1_3.main();
+
+        Substitution_1_4 sub_1_4 = new Substitution_1_4();
+        sub_1_4.main();
     }
 }
