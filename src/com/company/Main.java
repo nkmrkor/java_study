@@ -35,5 +35,8 @@ public class Main {
 
         Substitution_1_11 sub_1_11 = new Substitution_1_11();
         sub_1_11.main();
+
+        Substitution_1_12 sub_1_12 = new Substitution_1_12();
+        sub_1_12.main();
     }
 }
