@@ -19,5 +19,12 @@ public class CallInput {
         } catch(IOException e) {
             System.err.println(e.getMessage());
         }
+
+        try {
+            Input_2_3 inp_3 = new Input_2_3();
+            Input_2_3.main();
+        } catch(IOException e) {
+            System.err.println(e.getMessage());
+        }
     }
 }
