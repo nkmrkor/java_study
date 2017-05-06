@@ -40,5 +40,12 @@ public class CallInput {
         } catch(IOException e) {
             System.err.println(e.getMessage());
         }
+
+        try {
+            Input_2_6 inp_6 = new Input_2_6();
+            Input_2_6.main();
+        } catch(IOException e) {
+            System.err.println(e.getMessage());
+        }
     }
 }
