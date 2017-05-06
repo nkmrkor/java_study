@@ -11,5 +11,8 @@ public class Main {
 
         CallInput inp = new CallInput();
         inp.main();
+
+        CallFork fork = new CallFork();
+        fork.main();
     }
 }
