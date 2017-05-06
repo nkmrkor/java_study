@@ -8,5 +8,8 @@ public class Main {
 
         CallSubstitution sub = new CallSubstitution();
         sub.main();
+
+        CallInput inp = new CallInput();
+        inp.main();
     }
 }
